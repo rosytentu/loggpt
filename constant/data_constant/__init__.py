@@ -1,0 +1,5 @@
+ES_USER= "*****"
+ES_PASSWORD= "*****"
+ES_URL= "*****"
+LOGS_INDEX= "*****"
+EMBEDDINGS_INDEX= "*****"

@@ -1,0 +1,1 @@
+python C:\Users\trosy\Desktop\esgpt\components\embeddings_deletion.py
